@@ -3,7 +3,7 @@
 ## models
 - dcgan 64, 128
 
-- self-attension GAN
+- self-attention GAN
 
 <img src='./assets/sagan/iter_950000.pth_random_30.png' width=400><img src='./assets/sagan/iter_950000.pth_random_27.png' width=400>
 
