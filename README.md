@@ -23,7 +23,7 @@
 
 ## Bibliography
 
-[1] [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION](https://arxiv.org/abs/1710.10196)
+[1] [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION](https://arxiv.org/abs/1710.10196) </br>
 [2] [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
 
 
